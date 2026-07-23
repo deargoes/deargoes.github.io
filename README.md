@@ -1,10 +1,15 @@
-# Deargoes website
+# Deargoes website v1.1
 
 File pronti per GitHub Pages.
 
-## Contenuto
-- `index.html`
-- `style.css`
-- `deargoes-logo.jpg`
+## Pagine
+- Home
+- Projects
+- DG Garage
+- Events
+- Story
+- Contact
 
-Carica tutti e tre i file nella cartella principale del repository `deargoes.github.io`.
+## Caricamento
+Sostituisci i file presenti nella cartella principale del repository con quelli contenuti in questo pacchetto.
+Il file `CNAME` mantiene il collegamento a `deargoes.com`.
