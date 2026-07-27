@@ -1,10 +1,4 @@
-# Deargoes website
+# Deargoes website v1.2 corrected
 
-File pronti per GitHub Pages.
-
-## Contenuto
-- `index.html`
-- `style.css`
-- `deargoes-logo.jpg`
-
-Carica tutti e tre i file nella cartella principale del repository `deargoes.github.io`.
+Home senza il testo descrittivo sotto BUILD. TEST. RIDE.
+Menu con LAB SHOP e pagina eBay dedicata.
